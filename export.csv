@@ -1,0 +1,87 @@
+"Health and social care > NHS hospital activity > NHS activity and capacity during the coronavirus (COVID-19) pandemic > NHS hospitalisations by date and local health board"
+"NHS hospitalisations by date and local health board"
+
+Filters:
+Hospital type: All NHS hospitals
+Indicator: All hospitalisations
+
+"","Wales ","","","","","","","","Wales "
+"","Betsi Cadwaladr University Local Health Board ","Powys Teaching Local Health Board (1)","Hywel Dda University Local Health Board ","Swansea Bay University Local Health Board ","Cwm Taf Morgannwg University Local Health Board ","Aneurin Bevan University Local Health Board (2)","Cardiff and Vale University Local Health Board (3)","Velindre University NHS Trust ","."
+"12-Jun 2021 ",1720,179,947,1190,1202,1345,1363,19,7965
+"13-Jun 2021 ",1749,179,958,1149,1198,1368,1360,19,7980
+"14-Jun 2021 ",1783,177,983,1205,1244,1409,1437,20,8258
+"15-Jun 2021 ",1780,172,990,1213,1231,1395,1443,19,8243
+"16-Jun 2021 ",1763,172,995,1211,1249,1380,1438,21,8229
+"17-Jun 2021 ",1767,174,987,1209,1237,1383,1441,21,8219
+"18-Jun 2021 ",1773,171,989,1166,1237,1388,1430,19,8173
+"19-Jun 2021 ",1724,175,987,1153,1206,1329,1395,20,7989
+"20-Jun 2021 ",1734,176,984,1160,1217,1318,1369,18,7976
+"21-Jun 2021 ",1770,181,995,1174,1232,1355,1437,20,8164
+"22-Jun 2021 ",1744,173,1000,1206,1254,1362,1446,22,8207
+"23-Jun 2021 ",1771,175,997,1197,1235,1366,1443,22,8206
+"24-Jun 2021 ",1806,176,995,1170,1229,1372,1461,22,8231
+"25-Jun 2021 ",1761,175,990,1179,1232,1360,1438,18,8153
+"26-Jun 2021 ",1760,173,965,1148,1214,1329,1409,19,8017
+"27-Jun 2021 ",1762,172,979,1152,1245,1331,1395,17,8053
+"28-Jun 2021 ",1769,168,985,1169,1265,1361,1438,11,8166
+"29-Jun 2021 ",1799,167,999,1184,1269,1392,1435,15,8260
+"30-Jun 2021 ",1791,168,1000,1176,1266,1376,1451,19,8247
+"01-Jul 2021 ",1775,168,1001,1180,1254,1369,1453,15,8215
+"02-Jul 2021 ",1763,168,993,1197,1264,1398,1452,20,8255
+"03-Jul 2021 ",1707,168,978,1186,1248,1308,1391,21,8007
+"04-Jul 2021 ",1745,170,974,1189,1268,1346,1379,20,8091
+"05-Jul 2021 ",1783,170,1005,1179,1284,1375,1451,20,8267
+"06-Jul 2021 ",1761,173,987,1173,1275,1409,1468,19,8265
+"07-Jul 2021 ",1770,173,991,1185,1261,1405,1466,20,8271
+"08-Jul 2021 ",1771,173,976,1183,1258,1418,1437,13,8229
+"09-Jul 2021 ",1764,172,982,1200,1242,1432,1443,18,8253
+"10-Jul 2021 ",1756,174,948,1165,1244,1364,1393,18,8062
+"11-Jul 2021 ",1775,173,969,1166,1264,1360,1384,15,8106
+"12-Jul 2021 ",1787,170,997,1169,1271,1385,1431,16,8226
+
+
+
+Footnotes:
+"1","Data for the LHB is only available from 23 April when community hospitals were included as it does not have acute hospitals."
+"2","The LHB started reporting recovering patients from 7 June, but these were captured in the confirmed COVID-19 category before."
+"3","The LHB classified recovering patients as non-COVID-19 patients between 1 May and 22 May. Following the change in guidance, the LHB re-categorised them as COVID-19 patients, capturing them in the confirmed COVID-19 category until the recovering category was introduced on 26 May."
+"Hospital type","Data for acute hospitals are available from 1 April 2020, for field hospitals from 20 April 2020, for community hospitals from 23 April 2020 and mental health hospitals from 10 July 2020."
+"Local Health Board","Guidance was issued to local health boards on the completion and submission of the data return. However, data collection may vary slightly between health boards."
+".","The data item is not applicable."
+Metadata:
+"Title","NHS hospital admissions and hospitalisation by local health board, hospital type and date"
+"Last update","13 July 2021"
+"Next update","14 July 2021"
+"Source 1","Digital Health and Care Wales (DHCW)"
+"Contact email","kas.covid19@gov.wales"
+"Designation","Management information"
+"Lowest level of geographical disaggregation","Local health boards"
+"Geographical coverage","Wales"
+"Languages covered","English and Welsh"
+"Data licensing","You may use and re-use this data free of charge in any format or medium, under the terms of the Open Government License - see http://www.nationalarchives.gov.uk/doc/open-government-licence"
+"General description","In response to the coronavirus (COVID-19) pandemic, daily information on hospital admissions and hospitalisation has been collected specifically to support transparency and understanding of NHS activity and capacity. Figures show the number of admissions and people in hospital by hospital type, local health board and date. The data are taken from management information and are subject to change. They have not been not been subject to the same validation processes undertaken for official statistics releases."
+"Data collection and calculation","Daily return from Digital Health and Care Wales (DHCW) at a hospital level and local health board (LHB) level. Data is submitted via a TEXT file and transferred to a SQL database. As the return is sourced from management information, hospital level data are not suitable for publication.
+
+As of the week beginning May 10th, Monday's upload will only include Friday's data and Tuesday's upload will include Saturday, Sunday and Monday's data.  "
+"Frequency of publication","Daily"
+"Data reference periods","April 2020 onwards. Following further validation, data coverage prior to April 2020 was decided to not be suitable for publication. As the data collection was set up in response to the COVID-19 pandemic, not all health boards were able to provide all of the information in the first week of data collection."
+"Revisions information","Historic data are subject to revision at any point as hospitals can re-submitted a return anytime, and therefore may differ to that previously published information."
+"Statistical quality","Figures include data from acute hospitals from 1 April 2020, field hospitals from 20 April 2020, community hospitals from 23 April 2020, mental health units from 10 July, and exclude data from private hospitals. Mental health units' data are submitted each Friday, and the Friday position is used as proxy for the following week, unless there is a major change in circumstances. 
+
+Data for Powys is only available from 23 April when community hospitals were included as it does not have acute hospitals. Prior to 10 July 2020, Cardiff and Vale and Cwm Taf Morgannwg health boards captured some mental health bed figures in their acute hospitals figures. 
+
+From June 2020, hospitals started to close some of the additional surge capacity that was previously put in place for the COVID-19 pandemic. 
+
+COVID-19 related hospitalisations include patients with confirmed, suspected and recovering from COVID-19. Recovering patients was a category introduced on 26 May to capture patients who were COVID-19 positive in hospital and who showed no symptoms for 14+ days but remained in hospital on a COVID-19 treatment pathway, often for rehabilitation. Aneurin Bevan started reporting recovering patients from 7 June, but these were captured in the confirmed COVID-19 category before. Cardiff and Vale classified recovering patients as non-COVID-19 patients between 1 May and 22 May. Following the change in guidance, Cardiff and Vale re-categorised these patients as COVID-19 patients, capturing them in the confirmed COVID-19 category until the recovering category was introduced on 26 May. 
+
+Admissions are the number of patients admitted to hospital between 9am on the update date and 9am the day before. COVID-19 related admissions include COVID-19 suspected or confirmed patients. The health minister announced on 13 March that all non-urgent activity should stop to prepare for the pandemic. Following the re-introduction of elective procedures from June 2020, patients admitted for elective procedures suspected of having COVID-19 were initially captured in COVID-19 related admissions, even if they received a negative test later. This inflated the numbers of suspected cases in hospital at the time of reporting. From 29 June, patients admitted for elective procedures were only included in COVID-19 related admissions if they received a positive COVID-19 test result on arrival at the hospital. From 29 June, the guidance also changed to explicitly ask health boards to exclude transfers between acute and community hospitals from admissions figures. Prior to this, some transfers may have been captured as new admissions.  From 19 October 2020 specialist critical care beds and specialist acute beds have been included in these figures. These beds have been included in the data as they are part of the available bed stock, and may be used for COVID-19 patients in exceptional circumstances. From 13th November, only critical care beds that could be staffed should be included as available. Previously, all critical care beds had been included, regardless of whether they could be staffed. However, not all health boards implemented this change on that date. Following and update to guidance, more local health boards implemented this change from 4 December.
+
+From 18 January, no patients occupying an invasive ventilated bed (critical care bed) should be counted as "recovering" COVID-19 patients. Any patient previously reported as "recovering" will now be counted under "confirmed". This resulted in an increase in the number of invasive ventilated beds occupied by "confirmed" COVID-19 patients and no invasive ventilated beds showing as occupied by "recovering" patients. This change had no impact on the total number of COVID-19 related patients.
+
+From 1 February 2021, guidance was reiterated to health boards that patients who were already in hospital and contracted COVID-19, but have now recovered and are back on their original setting, should be reported as non-COVID-19. This may have affected a small number of patients who are in acute hospitals or mental health settings and may have resulted in a decrease in recovering patients and an increase in non-COVID-19 patients.
+
+From 8 March 2021, Cardiff and Vale University health board aligned their data more closely to the national guidance for SITREP reporting. This change had a small impact on the hospitalisation figures, which resulted in a small increase in the number of confirmed COVID-19 patients and a small decrease in the number of recovering COVID-19 patients.
+
+To ensure accurate and consistent reporting of Covid-19 recovering patients in the hospitalisations data, all health boards have been reminded to follow the national guidance for SITREP reporting, and were asked to ensure any necessary changes to their daily reporting were implemented 12 April 2021. Contrary to the guidance, some health boards were counting long stay patients who had fully recovered from COVID-19 in the COVID-19 recovering category, rather than the non-COVID-19 category, which inflated the number of COVID-19 recovering patients. This resulted in a step-change decrease in the number of recovering patients (a decrease of around 123 patients at the point of implementation). Whilst the impact was seen across most health boards it mainly impacted the Swansea Bay University Health Board."
+"Weblinks","https://gov.wales/nhs-activity-and-capacity-during-coronavirus-covid-19-pandemic"
+"Keywords","COVID-19, Coronavirus, NHS, patients, beds, hospital"
